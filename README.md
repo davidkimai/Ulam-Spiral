@@ -1,4 +1,4 @@
-# Ulam-Spiral
+# Ulam Spiral
 > "Why Do Prime Numbers Make These Spirals?"—[Grant Sanderson, 3Blue1Brown](https://www.3blue1brown.com/lessons/prime-spirals)
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/04ebce92-4761-456f-8353-88d94857d9b3" />
