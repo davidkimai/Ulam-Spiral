@@ -31,7 +31,7 @@ If you've read my prior work, such as [Langton's Emergence](https://github.com/d
 
 Here's a great Numberphile video on [prime spirals](https://youtu.be/iFuR97YcSLM) where James Grimes breaks this down visually. 
 
-The idea is that you write out numbers on a grid starting from the center, and circling all the primes forms a spiral pattern. The pattern you get is called an “Ulam Spiral", named after [Stanislaw Ulam](https://en.wikipedia.org/wiki/Stanis%C5%82aw_Ulam), who worked on the Manhattan Project, and noticed this while doodling while bored.
+The idea is that you write out numbers on a grid starting from the center, and circling all the primes forms a spiral pattern. The pattern you get is called an “Ulam Spiral", named after [Stanislaw Ulam](https://en.wikipedia.org/wiki/Stanis%C5%82aw_Ulam), who worked on the Manhattan Project, and noticed this while bored and doodling during a meeting.
 
 
 <div align="center">
