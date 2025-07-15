@@ -21,7 +21,7 @@ If you've read my prior work, such as [Langton's Emergence](https://github.com/d
 
 ![image](https://github.com/user-attachments/assets/d7329f7c-e6a8-4865-a228-4369eed4da61)
 
-*Courtesy of Anthropic—Claude 4 System Card*
+[*Courtesy of Anthropic—Claude 4 System Card*](https://www-cdn.anthropic.com/4263b940cabb546aa0e3283f35b686f4f3b2ff47.pdf)
 
 </div>
 
