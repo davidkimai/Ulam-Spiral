@@ -27,5 +27,17 @@ If you've read my prior work, such as [Langton's Emergence](https://github.com/d
 
 </div>
 
+> "Part of the beauty of mathematics is how two seemingly unrelated concepts can be interconnected through an arbitrary choice"—[Grant Sanderson, 3Blue1Brown](https://www.3blue1brown.com/lessons/prime-spirals)
 
-#
+Here's a great Numberphile video on [prime spirals](https://youtu.be/iFuR97YcSLM) where James Grimes breaks this down visually. 
+
+The idea is that you write out numbers on a grid starting from the center, and circling all the primes forms a spiral pattern. The pattern you get is called an “Ulam Spiral", named after [Stanislaw Ulam](https://en.wikipedia.org/wiki/Stanis%C5%82aw_Ulam), who worked on the Manhattan Project, and noticed this while doodling while bored.
+
+
+<div align="center">
+
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8d3a9278-39a2-42d8-92b9-22fc1eb376e9" />
+
+*What if there's data to dig up behind the "pointless" patterns?*
+
+</div>
